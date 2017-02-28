@@ -5,7 +5,7 @@ function getTriangleArea(a, h) {
   return a * h / 2
 }
 
-console.log( getTriangleArea(10,6) );
+console.log(getTriangleArea(10,6));
 
 var triangle1Area = getTriangleArea(10, 15);
 console.log('Pole pierwszego trójkąta = ' + triangle1Area);
